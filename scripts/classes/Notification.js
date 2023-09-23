@@ -1,4 +1,4 @@
-import { O } from "./OSC.js";
+import { O } from "../annoying.js";
 
 export class Notification {
   notifyElem = O("notify");

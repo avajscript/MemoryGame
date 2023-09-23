@@ -1,4 +1,4 @@
-import { O, S, C } from "./classes/OSC.js";
+import { O, S, C } from "./annoying.js";
 import { Game } from "./classes/game.js";
 import { Notification } from "./classes/Notification.js";
 import colors from "./colors.js";
